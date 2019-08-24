@@ -3,6 +3,7 @@ package com.example.homework_w2;
 
 import android.os.Bundle;
 
+
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
